@@ -1,4 +1,4 @@
-package com.hunau.myboot.controller;/**
+package com.hunau.mynewdata.dao;/**
  * @Description:
  * @param $
  * @Return: $
@@ -6,8 +6,8 @@ package com.hunau.myboot.controller;/**
  * @单位：湖南农业大学
  * @Date: $ $
  */
-*@开发版本：综合练习Vo.1
+/*@开发版本：综合练习Vo.1
         */
 
-public class TemplateController {
+public @interface Mapper {
 }
